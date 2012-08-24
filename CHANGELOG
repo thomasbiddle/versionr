@@ -1,0 +1,15 @@
+v.0.0.3
+==============
+Added full_version method
+
+v.0.0.2
+==============
+Bug Fix. Wasn't finding file.
+
+v.0.0.1
+==============
+Remove Debugging
+
+v.0.0.0
+==============
+Initial Release
