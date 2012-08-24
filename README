@@ -1,0 +1,13 @@
+Versionr is used to bump the version number of your files. 
+
+This gem was created to use in conjunction with another project that will build gemspec files - But wanted to isolate the functionality.
+
+Start an instance of versionr by passing it the directory your VERSION file resides in. The default is Dir.pwd .
+
+v = Versionr.new
+v = Versionr.new('../info')
+v.bump_major
+v.bump_minor
+v.bump_patch
+
+
